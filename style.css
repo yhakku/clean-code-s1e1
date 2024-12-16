@@ -41,7 +41,7 @@ figure {
 .tasks-list__text {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 
 .section__row-wrapper {
@@ -146,7 +146,7 @@ figure {
 }
 
 .tasks-list__item > .section__input {
-    width: 226px
+    width: 226px;
 }
 
 .tasks-list__button--delete .tasks-list__icon {
@@ -168,12 +168,12 @@ figure {
 
 /* Edit Task */
 .tasks-list__text {
-    display:none
+    display:none;
 }
 
 .edit-mode .tasks-list__text {
     display:inline-block;
-    width:224px
+    width:224px;
 }
 
 .edit-mode .tasks-list__label {
