@@ -161,7 +161,7 @@ figure {
 }
 
 /* Completed */
-#complete-tasks .tasks-list__label {
+.complete-tasks .tasks-list__label {
     text-decoration: line-through;
     color: #888;
 }
